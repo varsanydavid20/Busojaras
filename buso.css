@@ -47,7 +47,6 @@ q {
 
 li {
 	margin-bottom: 25px;
-	content: url(jel.png);
 }
 
 footer{
@@ -60,6 +59,11 @@ footer{
 	padding-top: 20px;
 	margin-bottom: 0px;
 	font-size: 0.8em;
+}
+
+a {
+	text-transform: uppercase;
+	text-decoration: none;
 }
 
 
