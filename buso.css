@@ -22,6 +22,7 @@ h1{
 	color: #B16400;
 }
 
+
 img {
 	border: 2px solid #FFEBD0;
 	border-radius: 5px;
@@ -45,6 +46,7 @@ q {
 
 li {
 	margin-bottom: 25px;
+	content: url(jel.png);
 }
 
 footer{
